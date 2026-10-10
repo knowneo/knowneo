@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Neo 👋</h1>
 
-<!--
-**knowneo/knowneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=62B47A&center=true&vCenter=true&width=435&lines=Minecraft+Developer;Paper+%2F+Folia+Plugins" alt="Typing animation" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/DISCORD-%40rl.neo-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=555555" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java_21-F89820?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Paper_%2F_Folia_1.21-3B6EA5?style=flat-square" />
+</p>
+
+## 📫 Contact
+
+Find me on Discord: **rl.neo**
